@@ -1,6 +1,4 @@
-Certainly! Below is the **complete `README.md`** file with all sections, including the project description, features, installation instructions, implementation details, challenges, and future scope.
 
-```markdown
 # TMT SSA Controller
 
 ## About the Project
@@ -60,6 +58,11 @@ Certainly! Below is the **complete `README.md`** file with all sections, includi
 - **Organization**: Indian Institute of Astrophysics, Bangalore, India
 - **Duration**: April 17, 2024 - May 18, 2024
 - **Intern**: Ruffina Mercy S
+
+
+
+
+  
 
 
 
